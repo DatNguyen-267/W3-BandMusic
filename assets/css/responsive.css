@@ -1,0 +1,15 @@
+@media (min-width:740px) and (max-width:1024px){
+
+}
+/* Mobile */
+@media (max-width:740px){
+    #nav > li {
+        display: block;
+    }
+    #header {
+        overflow: hidden;
+    }
+    #header .search-icon {
+        display: none;
+    }
+}
